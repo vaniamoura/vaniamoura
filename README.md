@@ -31,7 +31,7 @@ Aqui estão algumas ideias para você começar:
 
 - 📍 Guapimirim, RJ.
 - 🤿 Analista de Testes e Qualidade de Software (QA) | Testes Manuais e Automatizados | Testes de API.
-- 🎨 Sou Escoteira por paixão... Farei o meu melhor possivel! Faça todos os dias uma boa ação!
+- 🎨 Sou Escoteira por paixão... Farei o meu melhor possivel! Busco fazer todos os dias uma boa ação!
 
 
 ### 👩🏽‍💻 &nbsp; Trabalho com
