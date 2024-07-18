@@ -36,22 +36,28 @@ Aqui estão algumas ideias para você começar:
 
 ### 👩🏽‍💻 &nbsp; Trabalho com
 ```
-• Experiência de automação de aplicações web utilizando a ferramenta Robot Framework – Selenium e Playwright; 
+Área de Qualidade de Software, atuo como tester utilizando técnicas na aplicação de testes manuais, exploratórios, regressão, de requisitos funcionais e de carga.
+• Experiência de automação de aplicações web utilizando a ferramenta Robot Framework – Selenium e Playwright;
 • Experiência com testes web e mobile;
 • Experiência com testes manuais;
 • Experiência em criar plano e casos de testes funcionais ;
 • Experiência na automação de testes de API via Postman;
 • Experiência no planejamento, elaboração e execução de planos de teste, casos e cenários de teste;
-• Experiência em elaborar e analisar BDD;
+• Experiência em desenvolvimento em BDD;
 • Experiência em elaborar e analisar linguagem Gherkin;
-• Experiência nas ferramentas Swagger, Postman, JUnit e JMeter;; 
-• Experiência em Banco de dados SQl Server, MySql, HeidiSQL, DB2 e MongoDB;
+• Experiência nas ferramentas Swagger, Postman, JUnit e JMeter;
+• Experiência em Banco de dados SQl Server, MySql, HeidiSQL, DB2 MongoDB;
 • Experiência em Git e GitHub
 • Conhecimento em desenvolvimento em Python
-• Conhecimento em Jira e Trello
+• Conhecimento em Jira e Trello;
+• Experiência em Kambanize;
+• Experiência em Miro;
+• Experiência em RabbitMQ;
+• Experiência em Kafka;
 • Conhecimento em metodologias Ágeis;
 • Conhecimento em métricas e indicadores de testes;
-• Conhecimento em Power BI;
+• Boa comunicação e facilidade para trabalhar em equipe são meus pontos fortes.
+
 ```
 
 ### 🔍&nbsp; Encontre me
